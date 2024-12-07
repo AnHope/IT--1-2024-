@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body{
+background: url(https://avatars.mds.yandex.net/get-mpic/4362876/img_id1459886445206013124.jpeg/orig) no-repeat center center/cover fixed; 
+}
+.wrap{
+height: 200px;
+padding: 25px;
+}
+.gradient
+{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+height: 500px;
+width: 50%;
+
+border: 10px solid transparent;
+border-image: 10 repeating-linear-gradient(45deg, #33ff00, #33ff00 20px, transparent 10px, transparent 20px, #ff0800 20px, #ff0800 20px, #ff0800 40px, transparent 30px, transparent 40px);
+margin: 0 auto;
+margin-top:10%;
+color: #00000000;
+}
+p{
+ margin: 25px;
+ text-align: center;
+ font-size: 24px;
+}
+.gradient:hover{
+ /*background: repeating-linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255));*/
+ background: url(https://i.pinimg.com/originals/9b/c6/a1/9bc6a1da51c96dc387ec5ea9a4d54d0e.jpg) no-repeat center center/cover; 
+ color: rgb(107, 109, 255);
+}
+h1{
+    color: white;
+text-align: center;
+font-size: 128px;
+padding-top: 10;
+text-shadow: 
+-1px -1px rgb(131, 199, 255),
+1px 1px rgb(0, 174, 255),
+2px 2px rgb(0, 119, 255),
+3px 3px rgb(0, 110, 255),
+4px 4px rgb(0, 60, 255),
+5px 5px rgb(4, 0, 255),
+5px 5px rgb(3, 0, 153);
+}
+
+
+
+
+
+
